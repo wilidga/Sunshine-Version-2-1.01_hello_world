@@ -10,6 +10,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 
+//some changes
+
 public class MainActivity extends ActionBarActivity {
 
     @Override
